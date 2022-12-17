@@ -1,0 +1,8 @@
+Propagation = Max
+Budget = 1000
+MaxDepth = 55
+TotalGenerated = 5636872
+TotalExpanded = 2671722
+Time = 442.359711 seconds
+Expanded/Second = 6039.704590
+Score = 1092
